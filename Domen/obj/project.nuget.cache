@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5aHs6WvILTgPcaf1ggxHLKIxmVO5U8mfYO42O6sEhH47zgwb2aqiR+Za9Cp1hexndr+2GLeCWYFMYHlqu9J0rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\Domen\\Domen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zdravkovic PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Zdravkovic PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Zdravkovic PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

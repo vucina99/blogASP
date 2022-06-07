@@ -1,0 +1,11 @@
+C:\Users\Milica\source\repos\BlogASP\Application\bin\Debug\netcoreapp3.0\Application.deps.json
+C:\Users\Milica\source\repos\BlogASP\Application\bin\Debug\netcoreapp3.0\Application.dll
+C:\Users\Milica\source\repos\BlogASP\Application\bin\Debug\netcoreapp3.0\Application.pdb
+C:\Users\Milica\source\repos\BlogASP\Application\obj\Debug\netcoreapp3.0\Application.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\BlogASP\Application\obj\Debug\netcoreapp3.0\Application.AssemblyInfoInputs.cache
+C:\Users\Milica\source\repos\BlogASP\Application\obj\Debug\netcoreapp3.0\Application.AssemblyInfo.cs
+C:\Users\Milica\source\repos\BlogASP\Application\obj\Debug\netcoreapp3.0\Application.dll
+C:\Users\Milica\source\repos\BlogASP\Application\obj\Debug\netcoreapp3.0\Application.pdb
+C:\Users\Milica\source\repos\BlogASP\Application\bin\Debug\netcoreapp3.0\Domen.dll
+C:\Users\Milica\source\repos\BlogASP\Application\bin\Debug\netcoreapp3.0\Domen.pdb
+C:\Users\Milica\source\repos\BlogASP\Application\obj\Debug\netcoreapp3.0\Application.csproj.CopyComplete
