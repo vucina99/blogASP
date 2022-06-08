@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "24KYLSZ0X1QZ61Oqp7AZ+Vi/JjuUwwitImYYCV2Qe5iB69SCyL3d8jFTKU1zQ8aGfmgx/SY9G73fQLVKdGt5hg==",
+  "dgSpecHash": "Y33e/0lf+CUbNtbvBJeWRBfZy4UgpX0PFilik/kFTh5PUr0fPgCBbNqIbjtq9njRFXTp+dkWMcDEzLoti0Z88w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\Implementation\\Implementation.csproj",
+  "projectFilePath": "C:\\aspBlog\\Implementation\\Implementation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zdravkovic PC\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Zdravkovic PC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

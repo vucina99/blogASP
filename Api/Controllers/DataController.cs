@@ -265,7 +265,7 @@ namespace Api.Controllers
 
             userUseCases.ForEach(useCase => _context.UserUseCases.Add(new UserUseCase
             {
-                User = user.ElementAt(1),
+                User = user.ElementAt(2),
                 IdUseCase = useCase
             }));
 

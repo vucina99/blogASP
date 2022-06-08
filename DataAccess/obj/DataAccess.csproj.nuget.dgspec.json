@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\DataAccess\\DataAccess.csproj": {}
+    "C:\\aspBlog\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\DataAccess\\DataAccess.csproj": {
+    "C:\\aspBlog\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\aspBlog\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\aspBlog\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Zdravkovic PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\DataAccess\\obj\\",
+        "outputPath": "C:\\aspBlog\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zdravkovic PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\Domen\\Domen.csproj": {
-                "projectPath": "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\Domen\\Domen.csproj"
+              "C:\\aspBlog\\Domen\\Domen.csproj": {
+                "projectPath": "C:\\aspBlog\\Domen\\Domen.csproj"
               }
             }
           }
@@ -98,14 +98,14 @@
         }
       }
     },
-    "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\Domen\\Domen.csproj": {
+    "C:\\aspBlog\\Domen\\Domen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\Domen\\Domen.csproj",
+        "projectUniqueName": "C:\\aspBlog\\Domen\\Domen.csproj",
         "projectName": "Domen",
-        "projectPath": "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\Domen\\Domen.csproj",
+        "projectPath": "C:\\aspBlog\\Domen\\Domen.csproj",
         "packagesPath": "C:\\Users\\Zdravkovic PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\Domen\\obj\\",
+        "outputPath": "C:\\aspBlog\\Domen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zdravkovic PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

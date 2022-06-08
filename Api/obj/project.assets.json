@@ -8967,11 +8967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\Api\\Api.csproj",
+      "projectUniqueName": "C:\\aspBlog\\Api\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\Api\\Api.csproj",
+      "projectPath": "C:\\aspBlog\\Api\\Api.csproj",
       "packagesPath": "C:\\Users\\Zdravkovic PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\Api\\obj\\",
+      "outputPath": "C:\\aspBlog\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zdravkovic PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8988,14 +8988,14 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\Application\\Application.csproj"
+            "C:\\aspBlog\\Application\\Application.csproj": {
+              "projectPath": "C:\\aspBlog\\Application\\Application.csproj"
             },
-            "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\DataAccess\\DataAccess.csproj"
+            "C:\\aspBlog\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\aspBlog\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\Implementation\\Implementation.csproj": {
-              "projectPath": "C:\\Users\\Zdravkovic PC\\Desktop\\aspBlog-master\\Implementation\\Implementation.csproj"
+            "C:\\aspBlog\\Implementation\\Implementation.csproj": {
+              "projectPath": "C:\\aspBlog\\Implementation\\Implementation.csproj"
             }
           }
         }
